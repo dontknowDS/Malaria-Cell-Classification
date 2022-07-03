@@ -1,1 +1,3 @@
 assets
+assets/
+C:\Users\Public\Repos\DeepLearning\Malaria-Cell-Classification\assets
